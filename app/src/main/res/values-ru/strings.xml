@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name">Hello Text</string>
+        <string name="selected_language">Русский</string>
+        <string name="language">Привет</string>
+</resources>
